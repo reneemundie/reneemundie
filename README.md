@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @reneemundie
 - 👀 I’m interested in ... becoming a software developer
 - 🌱 I’m currently learning ... different programming languages, how to use software dev tools/apps, applying agile methodologies etc
-- 💞️ I’m looking to collaborate on ... anything that's super easy
+- 💞️ I’m looking to collaborate on ... projects with React, JavaScript, Java, Python (for now)
 - 📫 How to reach me ... reneemundie@outlook.com
 
 <!---
