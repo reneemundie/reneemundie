@@ -21,7 +21,7 @@
 </div>
 
 
-#### 👩‍💻 ABOUT ME :
+#### 🌸 ABOUT ME :
 - 🇦🇺 I'm Renée ~ 29 y/o from Melbs, Australia 
 - 👩‍🎓 Computer Sciences Graduate & Aspiring Software Engineer
 - 👩‍💻 I run an ecommerce store [SALT & LEMONS](https://saltnlemons.co) and build myself custom apps
